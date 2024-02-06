@@ -1,9 +1,3 @@
-//
-//  DetailView.swift
-//  Sentence-correction
-//
-//  Created by 津本拓也 on 2023/12/17.
-//
 
 import SwiftUI
 

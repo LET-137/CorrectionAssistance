@@ -1,9 +1,4 @@
-//
-//  StoreKit2.swift
-//  Sentence-correction
-//
-//  Created by 津本拓也 on 2024/01/29.
-//
+
 
 import Foundation
 import SwiftUI

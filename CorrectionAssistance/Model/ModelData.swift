@@ -1,9 +1,3 @@
-//
-//  ModelData.swift
-//  Sentence-correction
-//
-//  Created by 津本拓也 on 2024/01/02.
-//
 
 import Foundation
 import SwiftUI

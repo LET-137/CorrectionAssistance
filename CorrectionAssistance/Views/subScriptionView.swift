@@ -1,9 +1,3 @@
-//
-//  subScriptionView.swift
-//  Sentence-correction
-//
-//  Created by 津本拓也 on 2024/01/07.
-//
 
 import SwiftUI
 import StoreKit

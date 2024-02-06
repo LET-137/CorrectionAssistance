@@ -1,7 +1,3 @@
-//
-//  topPage.swift
-//  Sentence-correction
-//
 
 import SwiftUI
 
